@@ -1,2 +1,2 @@
 # Snake-Eating-Game
-The definitive Snake Eating game. Made with pygame 🐍.
+The Definitive Snake Eating game. Made with pygame 🐍.
